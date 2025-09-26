@@ -144,6 +144,11 @@ ENV/
 env.bak/
 venv.bak/
 
+.rag_venv
+rag_venv/
+.models
+models/
+
 # Spyder project settings
 .spyderproject
 .spyproject
